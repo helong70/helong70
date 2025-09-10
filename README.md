@@ -2,7 +2,7 @@
 
 <p>Java / C++ / Python Programmer</p>
 
-- 📫 Email: <a href="mailto:your.email@example.com">your.email@example.com</a>
+- 📫 Email: <a href="mailto:122440051@qq.com">122440051@qq.com</a>
 - 🌸 Just a programmer & a bit of an anime fan~
 
 ---
